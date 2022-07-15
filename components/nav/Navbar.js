@@ -1,8 +1,18 @@
 import Link from "next/link";
 
+
 export default function Navbar() {
+
+    const navContainer = {
+        display: 'flex',
+        flexDirection: 'row',
+        alignItems: 'center',
+        justifyContent: 'space-between',
+        width: '100%',
+    };
+
     return (
-        <div>
+        <div style={navContainer}>
             <div>
                 <Link href={'/'}>
                     <h4>L'Intitut du Design.</h4>
