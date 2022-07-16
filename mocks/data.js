@@ -12,7 +12,7 @@ const projects = [
         // img: {rea1},
         img: '../public/images/rea1.jpg',
         alt: 'rea1',
-        title: 'SOUTH PIGALLE PARADISE',
+        title: 'South Pigalle Paradise',
         text: 'Appartement parisien'
     },
     {
@@ -20,7 +20,7 @@ const projects = [
         // img: {rea2},
         img: '../public/images/rea2.jpg',
         alt: 'rea2',
-        title: 'LE SENS DU DÉTAIL',
+        title: 'Le sens du détail',
         text: 'Appartement parisien'
     },
     {
@@ -28,7 +28,7 @@ const projects = [
         // img: {rea3},
         img: '../public/images/rea3.jpg',
         alt: 'rea3',
-        title: 'HISTOIRE MODERNE',
+        title: 'Histoire moderne',
         text: 'Appartement parisien'
     },
     {
@@ -36,7 +36,7 @@ const projects = [
         // img: {rea4},
         img: '../public/images/rea4.jpg',
         alt: 'rea4',
-        title: 'LA VIE DE FAMILLE',
+        title: 'La vie de famille',
         text: 'Appartement parisien'
     },
     {
@@ -44,7 +44,7 @@ const projects = [
         // img: {rea5},
         img: '../public/images/rea5.jpg',
         alt: 'rea5',
-        title: 'PARISIAN STYLE',
+        title: 'Parisian style',
         text: 'Appartement parisien'
     },
     {
@@ -52,7 +52,7 @@ const projects = [
         // img: {rea6},
         img: '../public/images/rea6.jpg',
         alt: 'rea6',
-        title: "AUX P'TITS OIGNONS",
+        title: "Aux p'tits oignons",
         text: 'Appartement parisien'
     }
 ];
