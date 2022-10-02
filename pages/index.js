@@ -1,6 +1,6 @@
 // components
-import Card from '../components/UI/UICard';
-import HeaderPage from '../components/layouts/Header';
+import Card from '../components/molecules/card/Card';
+import HeaderPage from '../components/organisms/header/Header';
 // data
 import { projects } from '../mocks/data';
 import { info } from '../mocks/text';
