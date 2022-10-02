@@ -1,5 +1,9 @@
-import Navbar from '../nav/Navbar';
-import Footer from '../UI/UIFooter';
+// organisms
+import Navbar from '../organisms/navbar/Navbar';
+import Footer from '../organisms/footer/Footer';
+
+// --------------------------------
+
 export default function Layout( {children}) {
 
     const LayoutContainer = {

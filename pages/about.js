@@ -1,5 +1,5 @@
 // components
-import HeaderPage from '../components/layouts/Header';
+import HeaderPage from '../components/organisms/header/Header';
 // data
 import { about } from '../mocks/text';
 // styles
